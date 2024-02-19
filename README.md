@@ -1,4 +1,4 @@
-🪧 Live Link:-  https://akshaymealapp.netlify.app
+🪧 Live Link:-  https://yash1370.github.io/meal-app/
 🪧 Repository Link:-  https://github.com/yash1370/meal-app
 
 ---
